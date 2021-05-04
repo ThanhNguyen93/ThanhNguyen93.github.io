@@ -6,7 +6,9 @@
 
 In this project, I performed EAD on a case-control study for osteoporosis. Then I build prediction models using LR, RF, SVM, and XGB. 
 
-![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_ROC_plot.png)
+<a href="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_ROC_plot.png"><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_ROC_plot.png" width="600" height="400" align="middle"/></a>
+
+###![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_ROC_plot.png)
 
 ### COVID-19 Vaccince adverse symptoms in VAERS 
 [![](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/VAERS_COVID_association_rule_mining.pdf)
