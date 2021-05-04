@@ -1,1 +1,18 @@
+title: <p align="center"> Thanh M. Nguyen </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/thanhnguyen5493/">LinkedIn</a> |
+  <a href="https://github.com/ThanhNguyen93">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I had my MS in Operations Research and BA in Statistics and Marketing
+  <br><br>
+  I am currently a Research Associate at Medstar Health with a focus on Data Science and NLP research.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
