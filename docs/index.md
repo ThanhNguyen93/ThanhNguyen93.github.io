@@ -11,19 +11,11 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Data Science projects
+## [Osteoporosis prediction!](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/osteo_EDA.ipynb)
+In this project, I performed EAD, then apply LR, RF, SVM, and XGB to predict osteoporosis on a case-control study dataset
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image]()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
