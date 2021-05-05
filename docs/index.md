@@ -20,9 +20,10 @@ I applied Association Rule Mining using the VAERS data from the FDA to discover 
 
 ---
 
-### [Visualization app in RShiny using MAUDE dataset](https://github.com/ThanhNguyen93/Maude_viz)
+### Visualization app in RShiny using MAUDE dataset
 
 [![](https://img.shields.io/badge/RStudio-Open_RShiny_app-blue?logo=RStudio)](https://maude2016viz.shinyapps.io/r_viz_maude_16/)
+[![](https://img.shields.io/badge/Github-View_project_on_Github-blue?logo=Github)](https://github.com/ThanhNguyen93/Maude_viz)
 
 MAUDE is the medical device passive surveillance dataset from the FDA. I built a visualization app to project the temporal trends in the harm levels using the 2016 MAUDE data. 
 
