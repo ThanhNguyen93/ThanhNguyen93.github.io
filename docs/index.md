@@ -1,7 +1,7 @@
 ## Welcome to my pages
 
 # Data Science
-## Osteoporosis prediction
+## Osteoporosis prediction using machine learning 
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/osteo_EDA.ipynb)
 
 <div style="text-align: justify">In this project, I performed EAD on a case-control dataset for osteoporosis. Then I built predictive models using LR, RF, SVM, and XGB.</div> 
@@ -11,7 +11,7 @@
 
 ---
 
-### COVID-19 Vaccine adverse symptoms in VAERS 
+### COVID-19 Vaccine adverse symptoms in VAERS with Association Rule Mining 
 [![](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/VAERS_COVID_association_rule_mining.pdf)
 
 I applied Association Rule Mining using the VAERS data from the FDA to discover the top adverse symptoms in COVID-19 vaccines. Then I compared the differences in adverse symptoms between Moderna and Pfizer vaccines. 
