@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">In this project, I performed EAD on a case-control dataset for osteoporosis. Then I built predictive models using LR, RF, SVM, and XGB.</div> 
 <br>
-<center><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_ROC_plot.png" height="400" width="600"></center>
+<center><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_roc_plot.PNG" height="400" width="600"></center>
 <br>
 
 ---
@@ -16,7 +16,7 @@
 
 I applied Association Rule Mining using the VAERS data from the FDA to discover the top adverse symptoms in COVID-19 vaccines. Then I compared the differences in adverse symptoms between Moderna and Pfizer vaccines. 
 
-![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/poster_presentation.png)
+![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/poster_presentation.PNG)
 
 ---
 
