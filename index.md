@@ -6,7 +6,7 @@
 
 <div style="text-align: justify">In this project, I performed EAD on a case-control dataset for osteoporosis. Then I built predictive models using LR, RF, SVM, and XGB.</div> 
 <br>
-<center><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_roc_plot.PNG" height="400" width="600"></center>
+<center><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_roc_plot.JPG" height="400" width="600"></center>
 <br>
 
 ---
