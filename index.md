@@ -16,7 +16,7 @@
 
 I applied Association Rule Mining using the VAERS data from the FDA to discover the top adverse symptoms in COVID-19 vaccines. Then I compared the differences in adverse symptoms between Moderna and Pfizer vaccines. 
 
-![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/poster_presentation.PNG)
+![Result image](https://raw.githubusercontent.com/ThanhNguyen93/ThanhNguyen93.github.io/main/images/poster_presentation.PNG)
 
 ---
 
