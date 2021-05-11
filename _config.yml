@@ -11,13 +11,10 @@ description:
   <li><a href="#" class="fa fa-linkedin"></a>
   <a href="https://www.linkedin.com/in/thanhnguyen5493/">LinkedIn</a></li>
   
-  <li><a href="#" class="fa fa-github"></a>
-  <a href="https://github.com/ThanhNguyen93">GitHub</a></li>
+  <li><a href="https://github.com/ThanhNguyen93" class="fa fa-github">GitHub</a></li>
   
   <li><a href="#" class="fa fa-email"></a>
   <a href="mailto:tnguyen15@hawk.iit.edu">Email</a></li>
-  
-  <li><a href="mailto:tnguyen15@hawk.iit.edu" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
   
   </p>   
   
