@@ -2,7 +2,11 @@ logo: /assets/img/round_avarta.png
 title: <p align="center"> Thanh M. Nguyen </p>
 description:
   <p align="center">
-  HealthTech, Machine Learning, Natural Langugage Processing
+  <ul style="list-style-type:none;">
+  <li>HealthTech</li>
+  <li>Machine Learning</li>
+  <li>Natural Langugage Processing</li>
+  </ul>
   </p>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
