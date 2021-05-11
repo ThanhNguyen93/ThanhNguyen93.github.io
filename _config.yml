@@ -3,19 +3,18 @@ title: <p align="center"> Thanh M. Nguyen </p>
 description:
   <p align="left">
   <ul style="list-style-type:none;">
-  <li>HealthTech</li>
-  <li>Machine Learning</li>
+  <li>HealthTech,</li>
+  <li>Machine Learning,</li>
   <li>Natural Langugage Processing</li>
   </ul>
   </p>
+  
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
-  <p align="left">
-  <ul style="list-style-type:none;">
-  <li><a href="https://www.linkedin.com/in/thanhnguyen5493/" class="fa fa-linkedin"> LinkedIn</a></li>
-  <li><a href="https://github.com/ThanhNguyen93" class="fa fa-github"> GitHub</a></li>
-  <li><a href="mailto:tnguyen15@hawk.iit.edu" class="fa fa-email"> Email</a></li>
-  </ul>
+  <p align="center">
+  <a href="https://www.linkedin.com/in/thanhnguyen5493/" class="fa fa-linkedin"> LinkedIn</a>
+  <a href="https://github.com/ThanhNguyen93" class="fa fa-github"> GitHub</a>
+  <a href="mailto:tnguyen15@hawk.iit.edu" class="fa fa-email"> Email</a>
   </p>   
   
   
