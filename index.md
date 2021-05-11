@@ -2,7 +2,7 @@
 
 # Data Science
 ### Osteoporosis prediction using machine learning 
-[![](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/osteo_EDA.ipynb)
+[![](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/projects/osteo_EDA.ipynb)
 
 <div style="text-align: justify">In this project, I performed EAD on a case-control dataset for osteoporosis. Then I built predictive models using LR, RF, SVM, and XGB.</div> 
 <br>
