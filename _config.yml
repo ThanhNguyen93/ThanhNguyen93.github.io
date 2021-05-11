@@ -7,13 +7,13 @@ description:
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   
   <p align="center">
-  
+  <ul style="list-style-type:none;">
   <li><a href="https://www.linkedin.com/in/thanhnguyen5493/" class="fab fa-fw fa-linkedin"> LinkedIn</a></li>
   
   <li><a href="https://github.com/ThanhNguyen93" class="fab fa-fw fa-github"> GitHub</a></li>
   
   <li><a href="mailto:tnguyen15@hawk.iit.edu" class="fas fa-fw fa-envelope-square"> Email</a></li>
-  
+  </ul>
   </p>   
   
   
