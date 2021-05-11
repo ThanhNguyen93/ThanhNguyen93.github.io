@@ -8,10 +8,8 @@ description:
   
   <p align="center">
   <ul style="list-style-type:none;">
-  <li><a href="https://www.linkedin.com/in/thanhnguyen5493/" class="fab fa-fw fa-linkedin"> LinkedIn</a></li>
-  
-  <li><a href="https://github.com/ThanhNguyen93" class="fab fa-fw fa-github"> GitHub</a></li>
-  
+  <li><a href="https://www.linkedin.com/in/thanhnguyen5493/" class="fa fa-linkedin"> LinkedIn</a></li>
+  <li><a href="https://github.com/ThanhNguyen93" class="fa fa-github"> GitHub</a></li>
   <li><a href="mailto:tnguyen15@hawk.iit.edu" class="fas fa-fw fa-envelope-square"> Email</a></li>
   </ul>
   </p>   
