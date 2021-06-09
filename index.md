@@ -12,8 +12,7 @@
 ---
 
 ### COVID-19 Vaccine adverse symptoms in VAERS with Association Rule Mining 
-[![](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)]
-(https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/VAERS_COVID_association_rule_mining.pdf)
+[![](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/VAERS_COVID_association_rule_mining.pdf)
 
 To address <strong>vaccine hesitancy</strong> issues, I studied the adverse symptoms in <strong>COVID-19 vaccines</strong> using the <strong><em>VAERS</em></strong> data. VAERS is the public surveillance system co-manage by the CDC and FDA to detect rare vaccine adverse events. By applying <strong>association rule mining</strong>, I discovered the top <strong>adverse symptoms</strong> in COVID-19 vaccines, and compared the differences in adverse symptoms between <strong>Moderna</strong> and <strong>Pfizer vaccines</strong>. 
 
