@@ -7,7 +7,7 @@
 
 <div style="text-align: justify">In this project, I performed <strong>EAD</strong> on a <strong>case-control dataset</strong> for osteoporosis, controlling for demographic variables such as age, gender, and ethnicity. Then I built predictive models using <strong>LR, RF, SVM, and XGB</strong>. The <strong>Gradient Boosting Classifier</strong> and <strong>Logistic Regression</strong> achieved the highest ROC scores. Even though this is a balance dataset, the variables tend to be bias towards the negative class (no-osteoporosis), meaning the <em> True Negative</em>  and <em>False Negative</em>  scores are always higher than <em>True Positive</em> and <em>False Positive</em> scores. This trend is consistent in the <em>confusion matrix</em> of the 6 ML models. </div> 
 <br>
-<center><img src="https://raw.githubusercontent.com/ThanhNguyen93/ThanhNguyen93.github.io/main/images/osteo_roc_plot.JPG" height="400" width="600"></center>
+<center><img src="https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/osteo_roc.png?raw=true" height="400" width="600"></center>
 <br>
 
 ---
