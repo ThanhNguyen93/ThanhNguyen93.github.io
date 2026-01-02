@@ -1,5 +1,17 @@
 ## Welcome to my pages
 
+# Bioinformatics
+#### ISCVAM - Interactive Single-cell Visual Analytics tools for Multiomics
+
+<div style="text-align: justify"> We built ISCVAM as an interactive visual analytics tool for single-cell (sc) multiome. ISCVAM enables users to investigate both user-defined markers in multiple modalities (RNA and ATAC) individually and jointly (through weighted nearest neighbor), in different dimension reduction projections and on multiple panels. It also allows discovery of novel signatures of unidentified cell populations using unsupervised clustering algorithms in multiple resolutions. 
+
+Poster was accepted to present at AACR 2023: https://aacrjournals.org/cancerres/article/83/7_Supplement/2086/722119/Abstract-2086-ISCVAM-an-Interactive-Single-Cell
+</div>
+
+(https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/ISCVAM_HCI.pdf)
+
+---
+
 # Data Science
 ### Osteoporosis prediction using machine learning 
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/projects/osteo_EDA.ipynb)
