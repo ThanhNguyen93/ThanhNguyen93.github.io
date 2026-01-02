@@ -12,7 +12,7 @@
 
 <br>
 
-![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/ISCVAM_HCI.png) 
+![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/ISCVAM_HCI.PNG) 
 
 ---
 
