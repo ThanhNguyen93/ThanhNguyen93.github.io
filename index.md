@@ -3,7 +3,12 @@
 # Bioinformatics
 #### ISCVAM - Interactive Single-cell Visual Analytics tools for Multiomics
 
-<div style="text-align: justify"> - We built ISCVAM as an interactive visual analytics tool for single-cell multiome. ISCVAM enables users to investigate both user-defined markers in multiple modalities (RNA and ATAC) individually and jointly (through weighted nearest neighbor), in different dimension reduction projections and on multiple panels. It also allows discovery of novel signatures of unidentified cell populations using unsupervised clustering algorithms in multiple resolutions. 
+<div style="text-align: justify"> - We built <strong>ISCVAM</strong> as an interactive visual analytics tool for <strong>single-cell multiome</strong>. Our single-cell multiomics visualization app serves as an investigation tool, which allows users to:
+<br>    (1) visualize data under multi-modalities (RNA, ATAC) --> leverage the transcriptomics
+and epigenetics of the cells
+<br>    (2) paint cells with multiple single-cell clustering resolutions --> discover rare cell
+population
+<br>    (3) view 3 datasets simultaneously --> validate findings across datasets
 <br>
   - ISCVAM can be accessed here: https://chenlab.chpc.utah.edu/iscvam/
 <br>
