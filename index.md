@@ -3,13 +3,14 @@
 # Bioinformatics
 #### ISCVAM - Interactive Single-cell Visual Analytics tools for Multiomics
 
-[![](https://img.shields.io/badge/PDF-Open_Research_Poster-red?logo=adobe-acrobat-reader&logoColor=white)]
-(https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/pdf/ISCVAM_HCI.pdf)
-
-<div style="text-align: justify"> We built ISCVAM as an interactive visual analytics tool for single-cell (sc) multiome. ISCVAM enables users to investigate both user-defined markers in multiple modalities (RNA and ATAC) individually and jointly (through weighted nearest neighbor), in different dimension reduction projections and on multiple panels. It also allows discovery of novel signatures of unidentified cell populations using unsupervised clustering algorithms in multiple resolutions. 
-
-Poster was accepted to present at AACR 2023: https://aacrjournals.org/cancerres/article/83/7_Supplement/2086/722119/Abstract-2086-ISCVAM-an-Interactive-Single-Cell
+<div style="text-align: justify"> - We built ISCVAM as an interactive visual analytics tool for single-cell multiome. ISCVAM enables users to investigate both user-defined markers in multiple modalities (RNA and ATAC) individually and jointly (through weighted nearest neighbor), in different dimension reduction projections and on multiple panels. It also allows discovery of novel signatures of unidentified cell populations using unsupervised clustering algorithms in multiple resolutions. 
+<br>
+  - ISCVAM can be accessed here: https://chenlab.chpc.utah.edu/iscvam/
+<br>
+- Poster was accepted to present at AACR 2023: https://aacrjournals.org/cancerres/article/83/7_Supplement/2086/722119/Abstract-2086-ISCVAM-an-Interactive-Single-Cell
 </div>
+
+<br>
 
 ![Result image](https://github.com/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/images/ISCVAM_HCI.png) 
 
@@ -17,6 +18,7 @@ Poster was accepted to present at AACR 2023: https://aacrjournals.org/cancerres/
 
 # Data Science
 ### Osteoporosis prediction using machine learning 
+
 [![](https://img.shields.io/badge/Jupyter-Open_Notebook-F37626?logo=Jupyter)](https://nbviewer.jupyter.org/github/ThanhNguyen93/ThanhNguyen93.github.io/blob/main/projects/osteo_EDA.ipynb)
 
 <div style="text-align: justify">In this project, I performed <strong>EAD</strong> on a <strong>case-control dataset</strong> for osteoporosis, controlling for demographic variables such as age, gender, and ethnicity. Then I built predictive models using <strong>LR, RF, SVM, and XGB</strong>. The <strong>Gradient Boosting Classifier</strong> and <strong>Logistic Regression</strong> achieved the highest ROC scores. Even though this is a balance dataset, the variables tend to be bias towards the negative class (no-osteoporosis), meaning the <em> True Negative</em>  and <em>False Negative</em>  scores are always higher than <em>True Positive</em> and <em>False Positive</em> scores. This trend is consistent in the <em>confusion matrix</em> of the 6 ML models. </div> 
